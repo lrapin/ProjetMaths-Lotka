@@ -1,5 +1,3 @@
 # ProjetMaths-Lotka
 
-test
-test
-test
+Projet de RAPIN Louison et SIMON Louis.
